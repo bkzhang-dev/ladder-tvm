@@ -1,0 +1,50 @@
+pytorch2.4.1:§
+è
+input/Relu_output_0/Relu"Relu2Ë/home/zhangbk/.local/lib/python3.12/site-packages/torch/nn/functional.py(1500): relu
+/mnt/data-ssd-1/zhangbk/WorkDir/ladder/ladder-tvm/tests/deploytest/gen_model/gen_model.py(12): forward
+/home/zhangbk/.local/lib/python3.12/site-packages/torch/nn/modules/module.py(1543): _slow_forward
+/home/zhangbk/.local/lib/python3.12/site-packages/torch/nn/modules/module.py(1562): _call_impl
+/home/zhangbk/.local/lib/python3.12/site-packages/torch/nn/modules/module.py(1553): _wrapped_call_impl
+/home/zhangbk/.local/lib/python3.12/site-packages/torch/jit/_trace.py(132): wrapper
+/home/zhangbk/.local/lib/python3.12/site-packages/torch/jit/_trace.py(141): forward
+/home/zhangbk/.local/lib/python3.12/site-packages/torch/nn/modules/module.py(1562): _call_impl
+/home/zhangbk/.local/lib/python3.12/site-packages/torch/nn/modules/module.py(1553): _wrapped_call_impl
+/home/zhangbk/.local/lib/python3.12/site-packages/torch/jit/_trace.py(1497): _get_trace_graph
+/home/zhangbk/.local/lib/python3.12/site-packages/torch/onnx/utils.py(950): _trace_and_get_graph_from_model
+/home/zhangbk/.local/lib/python3.12/site-packages/torch/onnx/utils.py(1046): _create_jit_graph
+/home/zhangbk/.local/lib/python3.12/site-packages/torch/onnx/utils.py(1170): _model_to_graph
+/home/zhangbk/.local/lib/python3.12/site-packages/torch/onnx/utils.py(1648): _export
+/home/zhangbk/.local/lib/python3.12/site-packages/torch/onnx/utils.py(551): export
+/mnt/data-ssd-1/zhangbk/WorkDir/ladder/ladder-tvm/tests/deploytest/gen_model/gen_model.py(23): <module>
+
+¿
+input
+/Relu_output_0output/Add"Add2ì/mnt/data-ssd-1/zhangbk/WorkDir/ladder/ladder-tvm/tests/deploytest/gen_model/gen_model.py(13): forward
+/home/zhangbk/.local/lib/python3.12/site-packages/torch/nn/modules/module.py(1543): _slow_forward
+/home/zhangbk/.local/lib/python3.12/site-packages/torch/nn/modules/module.py(1562): _call_impl
+/home/zhangbk/.local/lib/python3.12/site-packages/torch/nn/modules/module.py(1553): _wrapped_call_impl
+/home/zhangbk/.local/lib/python3.12/site-packages/torch/jit/_trace.py(132): wrapper
+/home/zhangbk/.local/lib/python3.12/site-packages/torch/jit/_trace.py(141): forward
+/home/zhangbk/.local/lib/python3.12/site-packages/torch/nn/modules/module.py(1562): _call_impl
+/home/zhangbk/.local/lib/python3.12/site-packages/torch/nn/modules/module.py(1553): _wrapped_call_impl
+/home/zhangbk/.local/lib/python3.12/site-packages/torch/jit/_trace.py(1497): _get_trace_graph
+/home/zhangbk/.local/lib/python3.12/site-packages/torch/onnx/utils.py(950): _trace_and_get_graph_from_model
+/home/zhangbk/.local/lib/python3.12/site-packages/torch/onnx/utils.py(1046): _create_jit_graph
+/home/zhangbk/.local/lib/python3.12/site-packages/torch/onnx/utils.py(1170): _model_to_graph
+/home/zhangbk/.local/lib/python3.12/site-packages/torch/onnx/utils.py(1648): _export
+/home/zhangbk/.local/lib/python3.12/site-packages/torch/onnx/utils.py(551): export
+/mnt/data-ssd-1/zhangbk/WorkDir/ladder/ladder-tvm/tests/deploytest/gen_model/gen_model.py(23): <module>
+
+main_graphZ
+input
+
+
+
+d
+db 
+output
+
+
+
+d
+dB

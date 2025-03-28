@@ -1,0 +1,50 @@
+pytorch2.3.0:§
+“
+input/Relu_output_0/Relu"Relu2ìC:\Users\bk\.conda\envs\DeepLearning\lib\site-packages\torch\nn\functional.py(1500): relu
+D:\MyCode\PythonCode\DeepLearning\test\gen_test_model.py(11): forward
+C:\Users\bk\.conda\envs\DeepLearning\lib\site-packages\torch\nn\modules\module.py(1522): _slow_forward
+C:\Users\bk\.conda\envs\DeepLearning\lib\site-packages\torch\nn\modules\module.py(1541): _call_impl
+C:\Users\bk\.conda\envs\DeepLearning\lib\site-packages\torch\nn\modules\module.py(1532): _wrapped_call_impl
+C:\Users\bk\.conda\envs\DeepLearning\lib\site-packages\torch\jit\_trace.py(129): wrapper
+C:\Users\bk\.conda\envs\DeepLearning\lib\site-packages\torch\jit\_trace.py(138): forward
+C:\Users\bk\.conda\envs\DeepLearning\lib\site-packages\torch\nn\modules\module.py(1541): _call_impl
+C:\Users\bk\.conda\envs\DeepLearning\lib\site-packages\torch\nn\modules\module.py(1532): _wrapped_call_impl
+C:\Users\bk\.conda\envs\DeepLearning\lib\site-packages\torch\jit\_trace.py(1310): _get_trace_graph
+C:\Users\bk\.conda\envs\DeepLearning\lib\site-packages\torch\onnx\utils.py(914): _trace_and_get_graph_from_model
+C:\Users\bk\.conda\envs\DeepLearning\lib\site-packages\torch\onnx\utils.py(1010): _create_jit_graph
+C:\Users\bk\.conda\envs\DeepLearning\lib\site-packages\torch\onnx\utils.py(1134): _model_to_graph
+C:\Users\bk\.conda\envs\DeepLearning\lib\site-packages\torch\onnx\utils.py(1612): _export
+C:\Users\bk\.conda\envs\DeepLearning\lib\site-packages\torch\onnx\utils.py(516): export
+D:\MyCode\PythonCode\DeepLearning\test\gen_test_model.py(21): <module>
+
+¿
+input
+/Relu_output_0output/Add"Add2’D:\MyCode\PythonCode\DeepLearning\test\gen_test_model.py(12): forward
+C:\Users\bk\.conda\envs\DeepLearning\lib\site-packages\torch\nn\modules\module.py(1522): _slow_forward
+C:\Users\bk\.conda\envs\DeepLearning\lib\site-packages\torch\nn\modules\module.py(1541): _call_impl
+C:\Users\bk\.conda\envs\DeepLearning\lib\site-packages\torch\nn\modules\module.py(1532): _wrapped_call_impl
+C:\Users\bk\.conda\envs\DeepLearning\lib\site-packages\torch\jit\_trace.py(129): wrapper
+C:\Users\bk\.conda\envs\DeepLearning\lib\site-packages\torch\jit\_trace.py(138): forward
+C:\Users\bk\.conda\envs\DeepLearning\lib\site-packages\torch\nn\modules\module.py(1541): _call_impl
+C:\Users\bk\.conda\envs\DeepLearning\lib\site-packages\torch\nn\modules\module.py(1532): _wrapped_call_impl
+C:\Users\bk\.conda\envs\DeepLearning\lib\site-packages\torch\jit\_trace.py(1310): _get_trace_graph
+C:\Users\bk\.conda\envs\DeepLearning\lib\site-packages\torch\onnx\utils.py(914): _trace_and_get_graph_from_model
+C:\Users\bk\.conda\envs\DeepLearning\lib\site-packages\torch\onnx\utils.py(1010): _create_jit_graph
+C:\Users\bk\.conda\envs\DeepLearning\lib\site-packages\torch\onnx\utils.py(1134): _model_to_graph
+C:\Users\bk\.conda\envs\DeepLearning\lib\site-packages\torch\onnx\utils.py(1612): _export
+C:\Users\bk\.conda\envs\DeepLearning\lib\site-packages\torch\onnx\utils.py(516): export
+D:\MyCode\PythonCode\DeepLearning\test\gen_test_model.py(21): <module>
+
+main_graphZ
+input
+
+
+
+
+b 
+output
+
+
+
+
+B
